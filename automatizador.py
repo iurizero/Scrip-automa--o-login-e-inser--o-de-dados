@@ -16,6 +16,7 @@ pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 pyautogui.press("enter")
 pyautogui.sleep(4)
 
+
 #Dados de login
 pyautogui.press("tab")
 pyautogui.write("iuri")
